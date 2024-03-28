@@ -1,2 +1,6 @@
 Đây là week1 thuộc brand week1
+<<<<<<< HEAD
 Thuộc branch: week1
+=======
+Thuộc branch: week1 và main
+>>>>>>> main
